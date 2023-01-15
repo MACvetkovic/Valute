@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">exchange</string>
+    <string name="convert">Convert</string>
+    <string name="convert_back">Convert Back</string>
+    <string name="enter_a_number">Enter a number:</string>
+    <string name="unesite_broj_u_kunama">Unesite broj u kunama</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+</resources>
